@@ -120,6 +120,9 @@
 
 정보보안 기술스택
 - ISMS
+
+데이터 관리 
+- Python, Docker, AWS, GCP, Redis, CI/CD, NoSQL, Node.js
 ```
 
 2.7. 성공 요소 도출                 
