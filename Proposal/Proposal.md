@@ -107,7 +107,21 @@
 ```
 
 2.5. 고객 분석            
+
+
 ## 2.6. 기술 환경 분석                
+
+```markdown
+서버 기술스택
+- NET5, C#, .NET Core, ef core, mysql, redis, rabbitmq, grpc, protobuf, ELK, git, react, aws, RDBMX, NoSQL
+
+게임 클라이언트 기술스택
+- SDK, Unity, Firebase, Ads, UGUI, C#, git
+
+정보보안 기술스택
+- ISMS
+```
+
 2.7. 성공 요소 도출                 
 
 # 내부 환경 분석
